@@ -6,3 +6,5 @@ Futuramente detalharemos seus usos e quais ferramentas e linguagens utilizamos p
 
 
 **_Equipe: Los Lobos_**
+
+<img src="/assets/img/logo.png">
